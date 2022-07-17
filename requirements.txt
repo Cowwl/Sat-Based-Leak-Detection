@@ -44,7 +44,7 @@ fastcore==1.4.5
 fastdownload==0.0.7
 fastjsonschema==2.15.3
 fastprogress==1.0.2
-Fiona=1.8.21 
+Fiona==1.8.21 
 fonttools==4.34.4
 future==0.18.2
 GDAL==3.4.3
