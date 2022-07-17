@@ -47,7 +47,7 @@ fastprogress==1.0.2
 Fiona==1.8.21 
 fonttools==4.34.4
 future==0.18.2
-geopandas==0.11.0
+geopandas==0.10.2
 gevent==21.12.0
 google-api-core==2.8.2
 google-api-python-client==1.12.11
